@@ -1,4 +1,4 @@
-# My Portofilio
+# My Portfilio
 ![Static Badge](https://img.shields.io/badge/HTML-%23E86B20?style=for-the-badge&logo=html5&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-%2388C8EB?style=for-the-badge&logo=css3&logoColor=%235BB4EB&labelColor=black)
 
 ## Description  :bookmark_tabs:
@@ -16,7 +16,9 @@ You are able to see my project in two different ways, depending on what you are 
 ## Usage :bar_chart:
 If you are unable to open the URL, I attached a screenshot of it below:
     ![This is a screenshot of how the website looks on top.](Assets/Images/screenshot1.png)
+    
     ![This is a screenshot of how the website looks when you are on the first project.](Assets/Images/screenshot2.png)
+    
     ![This is a screenshot of how the website looks when you see the other projects.](Assets/Images/screenshot3.png)
 
 As you can see, there is a little menu on the top-right of the website, so you can click any of them and it will take you to the respective section. If you go to my work, you can click on some of the projects I have done and it will take you to the deployed website, and also on the bottom you can find some links so you can contact me.
