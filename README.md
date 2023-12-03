@@ -1,106 +1,71 @@
-# 02 Advanced CSS: Portfolio
+# My Portofilio
+![Static Badge](https://img.shields.io/badge/HTML-%23E86B20?style=for-the-badge&logo=html5&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-%2388C8EB?style=for-the-badge&logo=css3&logoColor=%235BB4EB&labelColor=black)
 
-## Your Task
+## Description  :bookmark_tabs:
 
-Welcome to this week's Challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 
+This was a really good project for me because it made me find a lot of resources and how to use them in my code to make it look nice.
+Undoubtedly one of the reasons why I did build this project is because we need a Portfolio when applying to jobs so the employers can see some of our projects and whatnot, and that's why I spent a lot of time making it looks nice. In addition, you can see some of the projects I have worked before. And the most important of all, I learned how to make a website with a lot of CSS code.
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
+## Installation :computer:
 
-With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
+You are able to see my project in two different ways, depending on what you are looking for:
 
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course. However, at least one application should be live. So you can add on Challenge 1's deployed application or Module's 1 Mini Project's deployed application.
+ 1. If you only want to see the deployed website, you can go to this URL: https://stroyer210.github.io/Portfolio/
+ 2. If you want to see my code, you have my repository's folder on top, plus all the documents, such HTML, CSS and images.
 
-Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first Challenge, we follow the AS AN / I WANT / SO THAT format. 
+## Usage :bar_chart:
+If you are unable to open the URL, I attached a screenshot of it below:
+    ![This is a screenshot of how the website looks on top.](Assets/Images/screenshot1.png)
+    ![This is a screenshot of how the website looks when you are on the first project.](Assets/Images/screenshot2.png)
+    ![This is a screenshot of how the website looks when you see the other projects.](Assets/Images/screenshot3.png)
 
+As you can see, there is a little menu on the top-right of the website, so you can click any of them and it will take you to the respective section. If you go to my work, you can click on some of the projects I have done and it will take you to the deployed website, and also on the bottom you can find some links so you can contact me.
 
-## User Story
+## Credits :email:
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+I am gonna list all the links I used to make this project really good.
+ - https://getbootstrap.com/docs/5.0/layout/breakpoints/
+ - https://github-emoji-picker.rickstaa.dev/
+ - https://stackoverflow.com/questions/11701311/logo-image-and-h1-heading-on-the-same-line#:~:text=You%20can%20do%20it%20as,to%20clear%20your%20floating%20elements.&text=This%20is%20my%20code%20without%20any%20div%20within%20the%20header%20tag.
+ - https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow
+ - https://www.w3schools.com/css/css_navbar.asp
+ - https://www.w3schools.com/css/css3_images.asp
+ - https://www.shecodes.io/athena/63010-how-to-add-opacity-to-a-color-in-css#:~:text=To%20add%20opacity%20to%20a%20color%20in%20CSS%2C%20you%20can,to%201%20(completely%20opaque).
+ - https://css-tricks.com/almanac/properties/o/object-fit/
+ - https://brandon-sweeney.medium.com/how-to-make-images-move-with-css-hover-selector-e56e82c690be
+ - https://css-tricks.com/snippets/css/complete-guide-grid/
 
-
-## Acceptance Criteria
-
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
-
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+I also watched a couple videos:
+- https://www.youtube.com/watch?v=9XnLMp09_BE
+- https://www.youtube.com/watch?v=Qp1FDixrb3Q
+- https://www.youtube.com/watch?v=zMB-qfBUIkY
 
 
-## Mock-Up
+## License :memo:
+---
+---
+MIT License
 
-The following animation shows the web application's appearance and functionality:
+Copyright (c) 2023 Sergio S. Ardila-Alvarado
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Grading Requirements
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+---
+---
 
-This Challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
