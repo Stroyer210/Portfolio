@@ -428,7 +428,7 @@ article>p{
 }
 
 /* This is the layout for smarthphones and tablets */
-@media screen and (min-width: 576px) and (max-width:991px){
+@media screen and (max-width:991px){
 
     li{
       display: block;
