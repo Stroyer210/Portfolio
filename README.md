@@ -4,7 +4,7 @@
 ## Description  :bookmark_tabs:
 
 This was a really good project for me because it made me find a lot of resources and how to use them in my code to make it look nice.
-Undoubtedly one of the reasons why I did build this project is because we need a Portfolio when applying for jobs so the employers can see some of our projects and whatnot, and that's why I spent a lot of time making it looks nice. In addition, you can see some of the projects I have worked before. And the most important of all, I learned how to make a website with a lot of CSS code.
+Undoubtedly one of the reasons why I did build this project is because we need a Portfolio when applying for jobs so the employers can see some of my projects and whatnot, so that one of the reasons why I spent a lot of time making it look as good as I could. In addition, you can see some of the projects I have worked before. And the most important of all, I learned how to make a website with a lot of CSS code.
 
 ## Installation :computer:
 
