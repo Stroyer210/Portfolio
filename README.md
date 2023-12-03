@@ -10,7 +10,7 @@ Undoubtedly one of the reasons why I did build this project is because we need a
 
 You are able to see my project in two different ways, depending on what you are looking for:
 
- 1. If you only want to see the deployed website, you can go to this URL: https://stroyer210.github.io/Portfolio/
+ 1. If you only want to see my portfolio, you can go to this URL: https://stroyer210.github.io/Portfolio/
  2. If you want to see my code, you have my repository's folder on top, plus all the documents, such HTML, CSS and images.
 
 ## Usage :bar_chart:
